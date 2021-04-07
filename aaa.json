@@ -1,0 +1,32 @@
+{
+  "status" : "success",
+  "data" : {
+    "network" : "DCC",
+    "prices" : [
+      {
+        "price" : "0.1",
+        "price_base" : "KRW",
+        "exchange" : "coinspot",
+        "time" : 1617809005
+      },
+      {
+        "price" : "0.1",
+        "price_base" : "KRW",
+        "exchange" : "bittrex",
+        "time" : 1617809006
+      },
+      {
+        "price" : "0.1",
+        "price_base" : "KRW",
+        "exchange" : "binance",
+        "time" : 1617808995
+      },
+      {
+        "price" : "0.1",
+        "price_base" : "KRW",
+        "exchange" : "binance",
+        "time" : 1617808995
+      }
+    ]
+  }
+}
