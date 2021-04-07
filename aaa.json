@@ -1,17 +1,32 @@
 {
   "status" : "success",
   "data" : {
-    "name" : "Dogecoin",
-    "acronym" : "DOGE",
     "network" : "DOGE",
-    "symbol_htmlcode" : "&#270;",
-    "url" : "http://www.dogecoin.com/",
-    "mining_difficulty" : "5345735.549234966",
-    "unconfirmed_txs" : 64,
-    "blocks" : 3678537,
-    "price" : "0.00000000",
-    "price_base" : "BTC",
-    "price_update_time" : 1617809670,
-    "hashrate" : "317366671528055.7"
+    "prices" : [
+      {
+        "price" : "0.00000104",
+        "price_base" : "BTC",
+        "exchange" : "binance",
+        "time" : 1617809677
+      },
+      {
+        "price" : "0.0589145",
+        "price_base" : "USD",
+        "exchange" : "binance",
+        "time" : 1617809677
+      },
+      {
+        "price" : "0.079",
+        "price_base" : "AUD",
+        "exchange" : "coinspot",
+        "time" : 1617809687
+      },
+      {
+        "price" : "0.00000105",
+        "price_base" : "BTC",
+        "exchange" : "bittrex",
+        "time" : 1617809687
+      }
+    ]
   }
 }
